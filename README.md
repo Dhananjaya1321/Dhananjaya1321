@@ -90,10 +90,7 @@
   </p>
 </p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhananjaya1321&show_icons=true&theme=gotham" alt="IsuruDhananjaya | Stats" />
-</p>
-</div>
+
 
 <p align="center"> 
   Visitor count<br>
