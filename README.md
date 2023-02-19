@@ -64,24 +64,36 @@
 <br/>
 <p align="center">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinithimendis&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhananjaya1321&theme=tokyonight" />
   
- <p>
-   
+ 
 <br>
    
 <p align="center">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinithimendis&theme=tokyonight&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhananjaya1321&theme=tokyonight&utcOffset=8" />
   
  <p>
    
    <p align="center">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinithimendis&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhananjaya1321&theme=tokyonight" />
   
  <p>
   
+<p>
+   <p align="center">
+  <p align="center">
+    <a href="https://github.com/Dhananjaya1321/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Isuru Dhananjaya's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Dhananjaya1321&theme=soft-green"/>
+    </a>
+  </p>
+</p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhananjaya1321&show_icons=true&theme=gotham" alt="IsuruDhananjaya | Stats" />
+</p>
+</div>
 
 <p align="center"> 
   Visitor count<br>
