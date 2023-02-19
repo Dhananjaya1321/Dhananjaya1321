@@ -67,6 +67,26 @@
 
 <br/>
 <br/>
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinithimendis&theme=tokyonight" />
+  
+ <p>
+   
+<br>
+   
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinithimendis&theme=tokyonight&utcOffset=8" />
+  
+ <p>
+   
+   <p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinithimendis&theme=tokyonight" />
+  
+ <p>
+  
 
 <p align="center"> 
   Visitor count<br>
