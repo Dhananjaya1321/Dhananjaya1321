@@ -56,8 +56,12 @@
 ## Social Media
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter,stackoverflow" />
-  </a>
+   <a href="https://github.com/Dhananjaya1321"><img src="https://skillicons.dev/icons?i=github" /></a>
+   <a href="www.linkedin.com/in/isuru-dhananjaya-9b5138247"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+   <a href="https://instagram.com/dhananjaya1321?igshid=ZDdkNTZiNTM="><img src="https://skillicons.dev/icons?i=instagram" /></a>
+   <a href="https://github.com/Dhananjaya1321"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+   <a href="https://github.com/Dhananjaya1321"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+ </a>
 </p>
 </p>
 
