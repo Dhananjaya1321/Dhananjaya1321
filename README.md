@@ -8,7 +8,6 @@
 <br/>
 
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
-- 🌱 I’m currently learning at `ijse`.
 - 💬 Ask me whatsapp - `+94 72 261 9856 `
 - 📫 How to reach me **blackisurudananjaya@gmail.com** 
 
