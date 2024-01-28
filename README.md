@@ -1,15 +1,11 @@
-<h1>
-   <img src="">
-</h1>
-
 <h2 align="center">Hi 👋! My name is Isuru Dhananjaya </h2>
 <h3 align="center"> I'm a developer from Sri lanka</h3>
 <br/>
 <br/>
 
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
-- 💬 Ask me whatsapp - `+94 72 261 9856 `
-- 📫 How to reach me **blackisurudananjaya@gmail.com** 
+- 💬 Ask me whatsapp - `+94 76 715 1321 `
+- 📫 How to reach me **isuru1321dhananjaya@gmail.com** 
 
 <p align="left">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/Dhananjaya1321">
@@ -100,6 +96,3 @@
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
 </h5>
-<p align="center">
-  <img src="https://github.com/Dhananjaya1321/red-alpha/blob/main/api.svg"/>
-</p>
